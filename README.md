@@ -1,1 +1,1 @@
-# CMIP5-scripts
+# General circulation model (GCMs) scripts
